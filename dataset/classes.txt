@@ -1,0 +1,6 @@
+vga
+lan
+usba
+hdmi
+dp
+power

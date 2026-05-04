@@ -1,0 +1,244 @@
+{
+  "version": "4.0.0-beta.5",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "vga",
+      "score": null,
+      "points": [
+        [
+          1249.4915254237287,
+          632.7118644067796
+        ],
+        [
+          1322.3728813559321,
+          632.7118644067796
+        ],
+        [
+          1322.3728813559321,
+          802.2033898305084
+        ],
+        [
+          1249.4915254237287,
+          802.2033898305084
+        ]
+      ],
+      "group_id": null,
+      "description": "vga",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "lan",
+      "score": null,
+      "points": [
+        [
+          1351.1864406779662,
+          1131.0169491525423
+        ],
+        [
+          1424.0677966101696,
+          1131.0169491525423
+        ],
+        [
+          1424.0677966101696,
+          1220.8474576271185
+        ],
+        [
+          1351.1864406779662,
+          1220.8474576271185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "usba",
+      "score": null,
+      "points": [
+        [
+          1267.9577464788733,
+          1111.1971830985915
+        ],
+        [
+          1306.6901408450706,
+          1111.1971830985915
+        ],
+        [
+          1306.6901408450706,
+          1186.1971830985917
+        ],
+        [
+          1267.9577464788733,
+          1186.1971830985917
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "usba",
+      "score": null,
+      "points": [
+        [
+          1313.7323943661972,
+          1121.056338028169
+        ],
+        [
+          1347.887323943662,
+          1121.056338028169
+        ],
+        [
+          1347.887323943662,
+          1195.7042253521126
+        ],
+        [
+          1313.7323943661972,
+          1195.7042253521126
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "usba",
+      "score": null,
+      "points": [
+        [
+          1347.2727272727273,
+          500.60606060606057
+        ],
+        [
+          1393.3333333333333,
+          500.60606060606057
+        ],
+        [
+          1393.3333333333333,
+          590.9090909090909
+        ],
+        [
+          1347.2727272727273,
+          590.9090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "usba",
+      "score": null,
+      "points": [
+        [
+          1400.6060606060605,
+          501.81818181818176
+        ],
+        [
+          1445.4545454545453,
+          501.81818181818176
+        ],
+        [
+          1445.4545454545453,
+          595.1515151515151
+        ],
+        [
+          1400.6060606060605,
+          595.1515151515151
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "hdmi",
+      "score": null,
+      "points": [
+        [
+          1261.8181818181818,
+          853.9393939393939
+        ],
+        [
+          1309.090909090909,
+          853.9393939393939
+        ],
+        [
+          1309.090909090909,
+          951.5151515151514
+        ],
+        [
+          1261.8181818181818,
+          951.5151515151514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "dp",
+      "score": null,
+      "points": [
+        [
+          1327.2727272727273,
+          863.030303030303
+        ],
+        [
+          1375.151515151515,
+          863.030303030303
+        ],
+        [
+          1375.151515151515,
+          965.4545454545454
+        ],
+        [
+          1327.2727272727273,
+          965.4545454545454
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "img07.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

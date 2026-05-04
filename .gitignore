@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.vscode/
+trials/
+database.db
+dense_reconstruction/stereo/
+dense_reconstruction/sparse/
+dense_reconstruction/images/
+dense_reconstruction/dense/
+obb_segments/
