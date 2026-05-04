@@ -19,7 +19,8 @@ python3 run_yolo.py
 ```
 
 copy the bounding box ouput from yolo_output folder to input_poses folder (Note: currently it has the labels for the 4 ports which is asked during the final submission of the project)
-
+Here for the 3D bounding box, we used the apriori information of ports (all ports within certain range of depth like not more than few cms), this information is used to filter out the corresponding ray projection of 2d box into 3d space.
+This controlled by ```min_depth``` for getting the closes point from camera and ```abs_tolerance``` for getting the objects in similar size of ports (apriori information). This should be tuned according to the object.
 ```
 python3 run_bbox_3d.py
 ```
